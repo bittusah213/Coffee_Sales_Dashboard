@@ -52,3 +52,5 @@
 ### 7.Sales Analysis by Days and Hours:
 #### Utilize a heatmap visualize sales patterns by days and hours.
 #### Implement tooltips to display metrics(sales,orders,quantity) when hower over a specific day by days.
+
+<img width="1335" height="762" alt="SCS_Coffee" src="https://github.com/user-attachments/assets/be06f8a3-8765-409c-af6f-5f51fe309a2d" />
